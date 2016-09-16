@@ -1,0 +1,2 @@
+# PaypalIntegration
+In this tutorial, you will learn to integrate the official PayPal SDK in your android applications. Payment gateways becomes the essentials part of the applications if you are selling something through your app or providing trial and pro versions. PayPal is one of the major payment method used worldwide. Paypal also offers the security features which significantly reduce the fraud which most of the people encounter with payments.
